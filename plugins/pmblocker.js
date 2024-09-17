@@ -227,7 +227,7 @@ smd({
     if (_0x2408ed && _0x491548.permit && _0x2e2c67.permit === "false") {
       var _0x5f4b92;
       if (_0x2e2c67.times === 0) {
-        _0x5f4b92 = "*Hii this is " + tlang().title + " a Personal Assistant of " + Config.ownername + ".*\n\n*Please do not send message in pm else you will be blocked automatically.*\n\n_Please wait until my owner responds to you._\n\n" + Config.caption;
+        _0x5f4b92 = "*Hii this is " + tlang().title + " a Personal Assistant of " + Config.ownername + ".*\n\n*King Ramah says  do not send message in pm else you will be blocked automatically.*\n\n_Please wait until King Ramah responds to you._\n\n" + Config.caption;
       }
       let _0x367ade = {
         externalAdReply: {
